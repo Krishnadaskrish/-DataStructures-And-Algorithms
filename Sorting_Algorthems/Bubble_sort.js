@@ -38,3 +38,5 @@ function decBubbleSort(arr){
 const arr1 = [8,9,6,5,3,6]
 decBubbleSort(arr1)
 console.log(arr1)
+
+// big-O = O(n^2) this is why we're saying bubble sort is nor an goo method for sorting 
