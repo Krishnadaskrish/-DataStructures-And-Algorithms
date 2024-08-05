@@ -22,3 +22,5 @@ function search(arr,target,leftIndex,rightIndex){
 }
 
 console.log(recursiveBinarySearch([4,6,8,10,12,14],14))
+
+//Big-o O(logn)
