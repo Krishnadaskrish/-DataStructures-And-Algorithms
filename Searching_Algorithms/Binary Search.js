@@ -17,6 +17,8 @@ function BinarySearch(arr,target){
         }
         
     }
+
+    return -1
 }
 
 console.log(BinarySearch([2,4,7,8,19,15],15))
