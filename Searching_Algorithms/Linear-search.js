@@ -1,4 +1,4 @@
-// Linear Search
+// Linear Search we can use sorted or unsorted arrays 
 
 function LinearSearch(arr, target) {
   for (let i = 0; i < arr.length; i++) {
